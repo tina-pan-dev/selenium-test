@@ -8,4 +8,4 @@ Base project from https://github.com/christian-draeger/basic-selenium-project
 JDK 1.8+
 
 ## To run
-Execute 'mvn clean verify' in a shell or import into Java IDE and run as Maven test
+Execute ```mvn clean verify``` in a shell or import into Java IDE and run as Maven test
